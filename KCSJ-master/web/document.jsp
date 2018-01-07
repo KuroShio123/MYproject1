@@ -10,7 +10,6 @@
         .doc-display{
             width: 100%;
             height: 1450px;
-
         }
         .doc-item{
             width: 80%;
@@ -19,7 +18,6 @@
             background-color: #FFFFFB;
             box-shadow: 0 5px 5px 0px #000000;
             margin: 2.5% auto auto auto;
-
         }
         .doc-img{
             width: 13%;
@@ -33,7 +31,6 @@
             float: left;
             margin-left: 2%;
             padding-top:50px;
-
             text-align: center;
         }
         .doc-info span{
