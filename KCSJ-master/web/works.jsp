@@ -32,13 +32,10 @@
         </div>
         <div style="width: 100%;height: 50px;background-color: #316a91">这只是一个栏</div>
         <div class="container">
-            <div class="project-part">
+            <div class="project-part" style="background: url(images/doge.jpg) no-repeat 0px 0px">
                 <div class="row1">
                     <div class="project-name">
                         这是一个大项目
-                    </div>
-                    <div class="project-download">
-                        <a href="#">下载</a>
                     </div>
                     <div class="project-celection">
                         <a href="#"><img src="images/爪子.png" alt="" style="float: left" height="80%"></a>
@@ -46,30 +43,24 @@
                     </div>
                 </div>
                 <div class="row2">
+                    <div class="project-member">
+                        <h3 style="display: inline">项目成员:</h3>
+                        孟振华 卓崇魁 林昊
+                    </div>
                     <div class="project-system-environment">
-                        <h3>系统环境:</h3>
+                        <h3 style="display: inline">系统环境:</h3>
                         jdk-1.8.8
                     </div>
                     <div class="project-introduce">
-                        <h3>项目介绍</h3>
+                        <h3>项目介绍:</h3>
                         这是一个傻子大项目
-                    </div>
-                    <div class="project-hardware_configuration">
-                        <h3>硬件配置要求</h3>
-                        内存:8G<br>
-                        显卡:双路GTX1080ti<br>
-                        CPU:Intel i7-7700k<br>
-                        硬盘:20G<br>
                     </div>
                 </div>
             </div>
-            <div class="project-part">
+            <div class="project-part" style="background: url(images/doge.jpg) no-repeat 0px 0px">
                 <div class="row1">
                     <div class="project-name">
                         这是一个大项目
-                    </div>
-                    <div class="project-download">
-                        <a href="#">下载</a>
                     </div>
                     <div class="project-celection">
                         <a href="#"><img src="images/爪子.png" alt="" style="float: left" height="80%"></a>
@@ -77,30 +68,24 @@
                     </div>
                 </div>
                 <div class="row2">
+                    <div class="project-member">
+                        <h3 style="display: inline">项目成员:</h3>
+                        孟振华 卓崇魁 林昊
+                    </div>
                     <div class="project-system-environment">
-                        <h3>系统环境:</h3>
+                        <h3 style="display: inline">系统环境:</h3>
                         jdk-1.8.8
                     </div>
                     <div class="project-introduce">
-                        <h3>项目介绍</h3>
+                        <h3>项目介绍:</h3>
                         这是一个傻子大项目
-                    </div>
-                    <div class="project-hardware_configuration">
-                        <h3>硬件配置要求</h3>
-                        内存:8G<br>
-                        显卡:双路GTX1080ti<br>
-                        CPU:Intel i7-7700k<br>
-                        硬盘:20G<br>
                     </div>
                 </div>
             </div>
-            <div class="project-part">
+            <div class="project-part" style="background: url(images/doge.jpg) no-repeat 0px 0px">
                 <div class="row1">
                     <div class="project-name">
                         这是一个大项目
-                    </div>
-                    <div class="project-download">
-                        <a href="#">下载</a>
                     </div>
                     <div class="project-celection">
                         <a href="#"><img src="images/爪子.png" alt="" style="float: left" height="80%"></a>
@@ -108,30 +93,24 @@
                     </div>
                 </div>
                 <div class="row2">
+                    <div class="project-member">
+                        <h3 style="display: inline">项目成员:</h3>
+                        孟振华 卓崇魁 林昊
+                    </div>
                     <div class="project-system-environment">
-                        <h3>系统环境:</h3>
+                        <h3 style="display: inline">系统环境:</h3>
                         jdk-1.8.8
                     </div>
                     <div class="project-introduce">
-                        <h3>项目介绍</h3>
+                        <h3>项目介绍:</h3>
                         这是一个傻子大项目
-                    </div>
-                    <div class="project-hardware_configuration">
-                        <h3>硬件配置要求</h3>
-                        内存:8G<br>
-                        显卡:双路GTX1080ti<br>
-                        CPU:Intel i7-7700k<br>
-                        硬盘:20G<br>
                     </div>
                 </div>
             </div>
-            <div class="project-part">
+            <div class="project-part" style="background: url(images/doge.jpg) no-repeat 0px 0px">
                 <div class="row1">
                     <div class="project-name">
                         这是一个大项目
-                    </div>
-                    <div class="project-download">
-                        <a href="#">下载</a>
                     </div>
                     <div class="project-celection">
                         <a href="#"><img src="images/爪子.png" alt="" style="float: left" height="80%"></a>
@@ -139,30 +118,24 @@
                     </div>
                 </div>
                 <div class="row2">
+                    <div class="project-member">
+                        <h3 style="display: inline">项目成员:</h3>
+                        孟振华 卓崇魁 林昊
+                    </div>
                     <div class="project-system-environment">
-                        <h3>系统环境:</h3>
+                        <h3 style="display: inline">系统环境:</h3>
                         jdk-1.8.8
                     </div>
                     <div class="project-introduce">
-                        <h3>项目介绍</h3>
+                        <h3>项目介绍:</h3>
                         这是一个傻子大项目
-                    </div>
-                    <div class="project-hardware_configuration">
-                        <h3>硬件配置要求</h3>
-                        内存:8G<br>
-                        显卡:双路GTX1080ti<br>
-                        CPU:Intel i7-7700k<br>
-                        硬盘:20G<br>
                     </div>
                 </div>
             </div>
-            <div class="project-part">
+            <div class="project-part" style="background: url(images/doge.jpg) no-repeat 0px 0px">
                 <div class="row1">
                     <div class="project-name">
                         这是一个大项目
-                    </div>
-                    <div class="project-download">
-                        <a href="#">下载</a>
                     </div>
                     <div class="project-celection">
                         <a href="#"><img src="images/爪子.png" alt="" style="float: left" height="80%"></a>
@@ -170,30 +143,24 @@
                     </div>
                 </div>
                 <div class="row2">
+                    <div class="project-member">
+                        <h3 style="display: inline">项目成员:</h3>
+                        孟振华 卓崇魁 林昊
+                    </div>
                     <div class="project-system-environment">
-                        <h3>系统环境:</h3>
+                        <h3 style="display: inline">系统环境:</h3>
                         jdk-1.8.8
                     </div>
                     <div class="project-introduce">
-                        <h3>项目介绍</h3>
+                        <h3>项目介绍:</h3>
                         这是一个傻子大项目
-                    </div>
-                    <div class="project-hardware_configuration">
-                        <h3>硬件配置要求</h3>
-                        内存:8G<br>
-                        显卡:双路GTX1080ti<br>
-                        CPU:Intel i7-7700k<br>
-                        硬盘:20G<br>
                     </div>
                 </div>
             </div>
-            <div class="project-part">
+            <div class="project-part" style="background: url(images/doge.jpg) no-repeat 0px 0px">
                 <div class="row1">
                     <div class="project-name">
                         这是一个大项目
-                    </div>
-                    <div class="project-download">
-                        <a href="#">下载</a>
                     </div>
                     <div class="project-celection">
                         <a href="#"><img src="images/爪子.png" alt="" style="float: left" height="80%"></a>
@@ -201,20 +168,17 @@
                     </div>
                 </div>
                 <div class="row2">
+                    <div class="project-member">
+                        <h3 style="display: inline">项目成员:</h3>
+                        孟振华 卓崇魁 林昊
+                    </div>
                     <div class="project-system-environment">
-                        <h3>系统环境:</h3>
+                        <h3 style="display: inline">系统环境:</h3>
                         jdk-1.8.8
                     </div>
                     <div class="project-introduce">
-                        <h3>项目介绍</h3>
+                        <h3>项目介绍:</h3>
                         这是一个傻子大项目
-                    </div>
-                    <div class="project-hardware_configuration">
-                        <h3>硬件配置要求</h3>
-                        内存:8G<br>
-                        显卡:双路GTX1080ti<br>
-                        CPU:Intel i7-7700k<br>
-                        硬盘:20G<br>
                     </div>
                 </div>
             </div>
